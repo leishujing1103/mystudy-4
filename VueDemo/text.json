@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "免费直播",
+    "list": [
+      {
+        "img": "http://edu-image.nosdn.127.net/5b7474b220e6444c823ba524c0c11b6d.jpg?imageView&amp;quality=100&amp;thumbnail=144y144",
+        "time": "今天20:00",
+        "container": "60分钟入门岗位需求技能—SQL和Python",
+        "lector": "讲师: 大鹏 网易金牌数据分析讲师"
+      },
+      {
+        "img": "http://edu-image.nosdn.127.net/68D1294B6ABFDCD0D146AC90FE806508.jpg?imageView&amp;quality=100&amp;thumbnail=144y144",
+        "time": "今天20:00",
+        "container": "如何使用贝塞尔曲线实现树木生长动画",
+        "lector": "讲师: 熊翔 网易特邀Android高级工程师"
+      },
+      {
+        "img": "http://edu-image.nosdn.127.net/90B0891FC7399FF924287C7443239C7C.png?imageView&amp;quality=100&amp;thumbnail=144y144",
+        "time": "今天20:00",
+        "container": "不懂NIO怎么敢说高并发",
+        "lector": "讲师: 张峰 网易特邀Java高级工程师"
+      }
+    ]
+    
+  }
+}
